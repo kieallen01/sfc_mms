@@ -1,0 +1,1 @@
+var serverdir = 'http://localhost/sfc_market';
